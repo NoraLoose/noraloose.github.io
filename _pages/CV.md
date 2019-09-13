@@ -51,4 +51,4 @@ permalink: /CV/
 - Field work for the **East Greenland Ice-Core Project** ([EastGRIP](https://eastgrip.org/)), Greenland, July/August 2017
 - Research cruise with **G.O.Sars** and the [ice2ice](https://ice2ice.w.uib.no/) project, Greenland/Iceland, August/September 2016
 
-<img src="/assets/images/EastGRIP_NL.png" width="240px" alt="" align="center" />
+<img src="/assets/images/EastGRIP_NL.png" width="240px" alt="" align="middle" />

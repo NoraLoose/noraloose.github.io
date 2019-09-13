@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "NoraLoose"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Nora Loose"
   avatar           : "/assets/images/NoraLoose.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ocean observing system design, North Atlantic-Arctic connectivity, Ocean and climate modeling, Inverse and adjoint methods, Uncertainty quantification"
+  bio              : "Ocean observing system design, Computational oceanography, North Atlantic-Arctic connectivity, Inverse and adjoint methods, Data assimilation, Uncertainty quantification"
   location         : "Austin, Texas"
   email            : "nora.loose@utexas.edu"
   uri              :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "NoraLoose"
   vine             :
   weibo            :
   xing             :

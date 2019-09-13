@@ -19,7 +19,7 @@ permalink: /CV/
 ## Awards and Scholarships ###
 
 - **Best Presentation Award**, *Research School on Changing Climates in the Coupled Earth System*, Sommaroy, Norway, 2018
-- **Research Grant for stay at MIT**, *Norwegian Reserach School in Climate Dynamics*, 2016
+- **Research Grant** for stay at MIT, *Norwegian Reserach School in Climate Dynamics*, 2016
 - **Scholarships** for
     - IARC Summer School, *University of Fairbanks*, 2016
     - ACDC Summer School, *Norwegian Research School in Climate Dynamics*, 2015

@@ -52,5 +52,4 @@ permalink: /CV/
 - Research cruise with **G.O.Sars** and the [ice2ice](https://ice2ice.w.uib.no/) project, Greenland/Iceland, August/September 2016
 
 <img src="/assets/images/Field_NL.png" height="240px" alt="" align="left" />
-
 <img src="/assets/images/EastGRIP_NL.png" height="240px" alt="" align="right" />

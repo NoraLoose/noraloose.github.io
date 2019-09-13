@@ -53,4 +53,4 @@ permalink: /CV/
 
 <img src="/assets/images/Field_NL.png" height="240px" alt="Nora Loose" align="left" />
 
-<img src="/assets/images/EastGRIP_NL.png" height="240px" alt="Nora Loose" align="left" />
+<img src="/assets/images/EastGRIP_NL.png" height="240px" alt="Nora Loose" align="right" />

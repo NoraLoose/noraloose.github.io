@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
+title: "Activities"
 layout: archive
 sitemap: true
-permalink: /teaching/
+permalink: /activities/
 author_profile: true
 ---
 

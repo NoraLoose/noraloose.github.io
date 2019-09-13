@@ -28,7 +28,7 @@ permalink: /CV/
 - **Scholarship for Study Abroad Program** at the University of Toronto, *University of Bonn*, 2009/2010
 - **Award German National Academic Foundation** ([Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/leitbild/)), given to 0.5% of German university students, 2008-2012
 - **Ferry Porsche Award** for excellent performance in math and physics, 2006
-- **German Physical Society Award**, 2006
+- **German Physical Society Award** for excellent performance in physics, 2006
 - **Award Reinhold Beitlich Foundation** for exceptional results in high school diploma, 2006
 
 ## Expeditions

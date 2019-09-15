@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/NoraLoose.JPG" width="340px" alt="Nora Loose" align="right" />
+<img src="/assets/images/NoraLoose.JPG" width="340px" alt="Nora Loose" align="right" padding="30px" />
 
 # About
 

@@ -14,7 +14,7 @@ I am a postdoc at UT Austin working with [Patrick Heimbach](https://heimbach.wor
 I recently completed my PhD in physical oceanography at the University of Bergen, Norway. I have a master's in mathematics and I am motivated to make mathematical tools more accessible for climate research.
 
 In my research, I combine ocean observations and models to understand the ocean's circulation and impact on climate.
-I apply tools from the computational sciences in order to quantify uncertainties in ocean state estimates and to gain new insights into how to improve the global ocean observing system.
+I apply techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and to gain new insights into how to improve the global ocean observing system.
 Currently, my main research focus is on the subpolar North Atlantic, the Nordic Seas, and the Arctic Ocean.
 Learn more details about my research [here](/research/).
 

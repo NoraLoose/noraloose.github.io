@@ -6,7 +6,7 @@ permalink: /
 author_profile: true
 ---
 
-<img src="/assets/images/NoraLoose.JPG" width="340px" alt="Nora Loose" align="right" />
+<img src="/assets/images/NoraLoose.JPG" width="340px" alt="Nora Loose" align="right" style="padding:30px" />
 
 # About
 
@@ -15,11 +15,9 @@ author_profile: true
 I am a postdoc at UT Austin working with [Patrick Heimbach](https://heimbach.wordpress.com/). My research interests include the large-scale ocean circulation, climate in the high latitudes and polar regions, and ocean observing system design.
 I recently completed my PhD in physical oceanography at the University of Bergen, Norway. I have a master's in mathematics and I am motivated to make mathematical tools more accessible for climate research.
 
-<span style="padding:30px;display:block">
 In my research, I combine ocean observations and models to understand the ocean's circulation and impact on climate.
 I apply tools from the computational sciences in order to quantify uncertainties in ocean state estimates and to gain new insights into how to improve the global ocean observing system.
 Currently, my main research focus is on the subpolar North Atlantic, the Nordic Seas, and the Arctic Ocean.
 Learn more details about my research [here](/research/).
 
-<span style="padding:30px;display:block">
 When I'm not doing research, I like being active in the outdoors. I love trail running, rock climbing, climbing hills on my road bike, and backcountry skiing.

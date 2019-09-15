@@ -15,7 +15,8 @@ author_profile: true
 | <img src="/assets/images/OSD.png" width="400px" alt=""> | **Loose, N.**, Heimbach, P. Dynamics-based Ocean Observing System Design via Adjoints. (2019). In preparation.|
 | <img src="/assets/images/NordicSeas.png" width="400px" alt=""> | **Loose, N.**, Pillar, H., Aarthun, M., Nisancioglu, K., Heimbach, P. Remote Drivers of Nordic Seas Heat Anomalies. (2019). In preparation.|
 
-## Talks and Posters
+
+
 
 
 

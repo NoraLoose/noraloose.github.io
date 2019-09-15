@@ -11,9 +11,9 @@ author_profile: true
 # About
 
 I am a postdoc at UT Austin working with [Patrick Heimbach](https://heimbach.wordpress.com/). My research interests include the large-scale ocean circulation, climate in the high latitudes and polar regions, and ocean observing system design.
-I recently completed my PhD in physical oceanography at the University of Bergen, Norway. I have a master's in mathematics.
+I recently completed my PhD in physical oceanography at the University of Bergen, Norway. I have a master's in mathematics and like to make mathematical tools more accessible for climate applications.
 
-In my research, I combine ocean observations and models to understand ocean circulation and the ocean's impact on climate.
+In my research, I combine ocean observations and models to understand the ocean's circulation and impact on climate.
 I apply tools from the computational sciences in order to quantify uncertainties in ocean state estimates and to gain new insights into how to improve the global ocean observing system.
 Currently, my main research focus is on the subpolar North Atlantic, the Nordic Seas, and the Arctic Ocean.
 Learn more details about my research [here](/research/).

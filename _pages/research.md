@@ -55,18 +55,23 @@ The novelty consists of two aspects:
 
 Variability in the poleward progression of ocean heat across the Nordic Seas - from the subpolar North Atlantic towards the Arctic Ocean - is important for Arctic sea ice, melting of the Greenland Ice Sheet, and northwestern European climate. 
 I'm trying to understand what drives anomalies in Nordic Seas heat content on seasonal to decadal timescales. 
-I'm especially interested in _where_ and _at what lead times_ such heat anomalies originate, because anomalies that originate remotely may contribute to decadal climate predictability.
+I'm particularly interested in _where_ and _at what lead times_ such heat anomalies originate, because anomalies that originate remotely may contribute to decadal climate predictability.
 
 To identify remote origins and drivers of climate predictability, I'm using the ECCO (Estimating the Circulation and Climate of the Ocean) state estimate and adjoint-derived sensitivities.
 
-<!--
 
 ## Ice-ocean interactions 
 
-Sensitivity of Greenland margin subsurface temperature to far-field climate signals
+<figure>
+  <img src="/assets/images/Greenland.png" alt="">
+  <figcaption> 
+Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacier to surface heat flux in the far-field on a 5-year timescale.
+</figcaption>
+</figure>
 
-The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Helheim Glacier and Jakobshavn Isbræ are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers to far-field climate signals.
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Helheim Glacier and Jakobshavn Isbræ are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone apid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers to far-field climate signals.
 
+<!--
 
 ## Constraints of proxy data on past ocean circulation
 

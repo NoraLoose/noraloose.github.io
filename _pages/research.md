@@ -20,7 +20,7 @@ My research lies at intersection of physical oceanography, computational science
 
 <figure>
   <img src="/assets/images/design.png" alt="">
-  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? The brown ridge sketches bottom topography. </figcaption>
+  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? This schematic shows an example for moored instruments (dots) and a glider (saw-tooth line). The brown ridge sketches bottom topography. </figcaption>
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 

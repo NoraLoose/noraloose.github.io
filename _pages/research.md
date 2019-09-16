@@ -69,16 +69,13 @@ Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (rig
 </figcaption>
 </figure>
 
-The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Jakobshavn Isbr� and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers, such as Jakobshavn Isbræ and Helheim Glacie, to far-field climate signals.
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers, such as Jakobshavn Isbræ and Helheim Glacie, to far-field climate signals.
 
-<!--
 
 ## Constraints of proxy data on past ocean circulation
 
-Paleoclimate archives provide information on the evolution of past climates and can im- prove our understanding of the processes that underlie low-frequency variability in the climate system. Furthermore, abrupt climate shifts in the past may provide analogs for future climate change. Inference of past environmental conditions is complicated by the fact that they can only be assessed on the basis of indirect proxy observations. The re- lationship of proxy observations to physical variables is often tenuous, leading to large uncertainties, and the observations are very sparse in space and time (see Section 1.1.4).
-For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations, to quan- tify the inferential power of proxy data, and to compute observable and unobservable climate aspects.
+Paleoclimate archives provide information on the evolution of past climates and can improve our understanding of the processes that underlie low-frequency variability in the climate system. 
+Like in the modern ocean, paleoceanography depends crucially on observations. However, data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. 
+For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations and to compute unobservable climate aspects.
 
-Like in the modern ocean, paleoceanography depends crucially on observations. However, data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. For paleoclimate reconstructions, model-data syn- thesis seems promising - if not necessary - since it permits using dynamical princi- ples to constrain interpretations of proxy observations, to quantify the inferential power of proxy data, and to compute observable and unobservable climate aspects.
-
- I explore the capability of the globally available proxy surface ocean data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties.
--->
+I'm interested in quantifying the capability of the globally available proxy data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties within paleo ocean state estimates.

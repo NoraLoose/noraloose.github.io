@@ -78,7 +78,7 @@ The interaction of warm subpolar North Atlantic ocean waters with Greenland's ma
 <figure>
   <img src="/assets/images/MIS3cores.png" alt="">
   <figcaption> 
-Marine sediment core locations with SST proxy data from marine isotope stage 3 (29-60 kyr ago) during the last glacial, which shows a number of abrupt climate change events. What dynamical constraints do proxy data provide, taking into account its sparsity and uncertainty?
+Marine sediment core locations with SST proxy data from marine isotope stage 3 (29-60 kyr ago) during the last glacial, which shows a number of abrupt climate change events. What dynamical constraints are provided by proxy data, taking into account its sparsity and uncertainty?
 </figcaption>
 </figure>
 

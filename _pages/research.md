@@ -66,11 +66,11 @@ To identify remote origins and drivers of climate predictability, I'm using the 
 <figure>
   <img src="/assets/images/Greenland.png" alt="">
   <figcaption> 
-Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacierto remote surface heat fluxes on a 5-year timescale.
+Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacier to remote surface heat fluxes on a 5-year timescale.
 </figcaption>
 </figure>
 
-The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's marine-terminating glaciers, such as Jakobshavn Isbræ and Helheim Glacir, to far-field climate signals.
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's marine-terminating glaciers, such as Jakobshavn Isbræ and Helheim Glacier, to far-field climate signals.
 
 
 ## Constraints of proxy data on past ocean circulation

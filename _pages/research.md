@@ -84,6 +84,5 @@ Marine sediment core locations with SST proxy data from marine isotope stage 3 (
 
 Paleoclimate archives provide information on the evolution of past climates and can improve our understanding of the processes that underlie low-frequency variability in the climate system. 
 However, paleoceanographic data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. 
-
 For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations and to compute unobservable climate aspects.
 I'm interested in quantifying the capability of the available proxy data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties.

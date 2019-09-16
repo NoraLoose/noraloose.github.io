@@ -14,6 +14,7 @@ My research lies at intersection of physical oceanography, computational science
 - Quantitative methods for ocean observing system design
 - Dynamical proxy potential of the OSNAP array
 - Remote drivers of Nordic Seas heat anomalies
+- Ice-ocean interactions
 
 
 ## Quantitative Methods for Ocean Observing System Design
@@ -24,7 +25,7 @@ My research lies at intersection of physical oceanography, computational science
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 
-A central focus of my research is the development of quantitative and dynamics-based methods that support the design of long-term effective observing systems. I am interested in questions like:
+A central focus of my research is the development of quantitative and dynamics-based methods that support the design of long-term effective observing systems. I am interested in questions such as:
 - Which information is contained in already existing observation networks? 
 - What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
 
@@ -46,21 +47,32 @@ The novelty consists of two aspects:
 - No actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
 
 
-<!--
 <figure>
-  <img src="/assets/images/adxxtauv_lt36.png" alt="">
-  <figcaption>Sensitivity of Nordic Seas heat content to meridional wind stress. </figcaption>
+  <img src="/assets/images/sens2wind.png" alt="">
+  <figcaption>Sensitivity of Nordic Seas heat content to wind perturbations at a lead time of 3 years. The eastern boundary of the North Atlantic and the intergyre boundary are oceanic regions that may help predict northern climate. </figcaption>
 </figure>
 
-Variability in the poleward progression of ocean heat across the Nordic Seas, from the subpolar North Atlantic towards the Arctic Ocean, has been linked to Arctic sea ice extent, mass loss from the Greenland Ice Sheet, and northwestern European climate. It is not well understood, However, remotely triggered perturbations are usually not further disentangled according to their forcings and regions of origin. 
-I compute adjoint sensitivities of Nordic Seas heat content to local and remote atmospheric forcing within the ECCOv4 ocean state estimation framework.
+Variability in the poleward progression of ocean heat across the Nordic Seas - from the subpolar North Atlantic towards the Arctic Ocean - is important for Arctic sea ice, melting of the Greenland Ice Sheet, and northwestern European climate. 
+I'm trying to understand what drives anomalies in Nordic Seas heat content on seasonal to decadal timescales. 
+I'm especially interested in the question _where_ and _at what lead times_ such heat anomalies originate, because anomalies that originate remotely may contribute to decadal climate predictability.
 
-The aim of this chapter is therefore to disentangle local and remote processes that generate upper-ocean heat content anomalies in the Nordic Seas on timescales up to a decade, and identify how atmospheric forcing anomalies in remote regions can generate upper-ocean heat content anomalies in the Nordic Seas. 
-However, remotely triggered perturbations are usually not further disentangled according to their forcings and regions of origin. This is partly due to the fact that the employed technique of using correlations does not allow identification of physical causation, only mutual variability. In contrast, adjoint-based sensitivity studies reveal causal chains and dynamical relation- ships among physical variables encoded in the model, and shall be the approach of this work. -->
+To identify remote origins and drivers of climate predictability, I'm using the ECCO (Estimating the Circulation and Climate of the Ocean) state estimate and adjoint-derived sensitivities.
 
+<!--
 
+## Ice-ocean interactions 
 
-## Ice-ocean interactions: Greenland melt
+Sensitivity of Greenland margin subsurface temperature to far-field climate signals
+
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Helheim Glacier and Jakobshavn Isbræ are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers to far-field climate signals.
+
 
 ## Constraints of proxy data on past ocean circulation
 
+Paleoclimate archives provide information on the evolution of past climates and can im- prove our understanding of the processes that underlie low-frequency variability in the climate system. Furthermore, abrupt climate shifts in the past may provide analogs for future climate change. Inference of past environmental conditions is complicated by the fact that they can only be assessed on the basis of indirect proxy observations. The re- lationship of proxy observations to physical variables is often tenuous, leading to large uncertainties, and the observations are very sparse in space and time (see Section 1.1.4).
+For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations, to quan- tify the inferential power of proxy data, and to compute observable and unobservable climate aspects.
+
+Like in the modern ocean, paleoceanography depends crucially on observations. However, data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. For paleoclimate reconstructions, model-data syn- thesis seems promising - if not necessary - since it permits using dynamical princi- ples to constrain interpretations of proxy observations, to quantify the inferential power of proxy data, and to compute observable and unobservable climate aspects.
+
+ I explore the capability of the globally available proxy surface ocean data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties.
+-->

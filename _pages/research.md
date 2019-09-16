@@ -33,11 +33,12 @@ I am currently exploring an approach that uses uncertainty quantification and ad
 ## Dynamical Proxy Potential of the OSNAP Array
  
 <figure>
-  <img src="/assets/images/proxyOSNAP.png" alt="">
-  <figcaption> Which climate signals impact both the OSNAP observations (black) and remote regions such as (i) subsurface temperature at the East Greenland margin (purple) and (ii) heat content of the Norwegian Sea (pink)? </figcaption>
+  <img src="/assets/images/OSNAP.png" alt="">
+  <figcaption> What information do the OSNAP observations (black) provide for remote regions such as (i) subsurface temperature at the East Greenland margin (purple) and (ii) heat content of the Norwegian Sea (green)? </figcaption>
 </figure>
 
-The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. I am interested in putting the OSNAP observations into a broader spatial and temporal context. Can the OSNAP array inform - or could even serve as a proxy for - unobserved hydrographic and circulation quantities remote from the array?
+The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. A next step is to put the OSNAP observations into a broader spatial and temporal context. I am interested in the following question:
+- Can the OSNAP array inform - or could even serve as a proxy for - unobserved hydrographic and circulation quantities remote from the array?
 
 I'm quantifying the proxy potential of the OSNAP array by means of a novel, dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
 The novelty consists of two aspects:
@@ -58,14 +59,6 @@ The aim of this chapter is therefore to disentangle local and remote processes t
 However, remotely triggered perturbations are usually not further disentangled according to their forcings and regions of origin. This is partly due to the fact that the employed technique of using correlations does not allow identification of physical causation, only mutual variability. In contrast, adjoint-based sensitivity studies reveal causal chains and dynamical relation- ships among physical variables encoded in the model, and shall be the approach of this work. -->
 
 
-
-
-
-
-
-
-
-## The OSNAP array in a broader spatial context
 
 ## Ice-ocean interactions: Greenland melt
 

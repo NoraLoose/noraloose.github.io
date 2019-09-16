@@ -13,7 +13,7 @@ author_profile: true
 | <img src="/assets/images/fig_UQ1.png" width="400px" alt=""> | **Loose, N.**, Heimbach, P., Pillar, H. and Nisancioglu, K. (2019). The Information Potential of Observations assessed via Uncertainty Quantification in Ocean State Estimation. Part 2: Data Redundancy and Noise Masking. _In preparation_.|
 | <img src="/assets/images/proxyOSNAP.png" width="400px" alt=""> | **Loose, N.**, Heimbach, P., Pillar, H. and Nisancioglu, K. (2019). The Dynamical Proxy Potential of the OSNAP Array. (2019). _In preparation_.|
 | <img src="/assets/images/OSD.png" width="400px" alt=""> | **Loose, N.** and Heimbach, P. (2019). Dynamics-based Ocean Observing System Design via Adjoints. _In preparation_.|
-| <img src="/assets/images/NordicSeas.png" width="400px" alt=""> | **Loose, N.**, Pillar, H., Aarthun, M., Nisancioglu, K. and Heimbach, P. (2019). Remote Drivers of Nordic Seas Heat Anomalies. _In preparation_.|
+| <img src="/assets/images/sens2wind.png" width="400px" alt=""> | **Loose, N.**, Pillar, H., Aarthun, M., Nisancioglu, K. and Heimbach, P. (2019). Remote Drivers of Nordic Seas Heat Anomalies and Climate Predictability. _In preparation_.|
 
 
 

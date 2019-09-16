@@ -86,4 +86,4 @@ Paleoclimate archives provide information on the evolution of past climates and 
 Like in the modern ocean, paleoceanography depends crucially on observations. However, data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. 
 For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations and to compute unobservable climate aspects.
 
-I'm interested in quantifying the capability of the globally available proxy data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties within paleo ocean state estimates.
+I'm interested in quantifying the capability of the available proxy data to constrain ocean circulation of the past, taking into account its sparsity and uncertainties.

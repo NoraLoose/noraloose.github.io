@@ -69,7 +69,7 @@ Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (rig
 </figcaption>
 </figure>
 
-The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Helheim Glacier and Jakobshavn Isbræ are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone apid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers to far-field climate signals.
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Jakobshavn Isbr� and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers, such as Jakobshavn Isbræ and Helheim Glacie, to far-field climate signals.
 
 <!--
 

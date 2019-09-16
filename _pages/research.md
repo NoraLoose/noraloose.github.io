@@ -65,14 +65,21 @@ To identify remote origins and drivers of climate predictability, I'm using the 
 <figure>
   <img src="/assets/images/Greenland.png" alt="">
   <figcaption> 
-Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacier toremote surface heat fluxes on a 5-year timescale.
+Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacierto remote surface heat fluxes on a 5-year timescale.
 </figcaption>
 </figure>
 
-The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers, such as Jakobshavn Isbræ and Helheim Glacie, to far-field climate signals.
+The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' recent retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am interested in the sensitivity of subsurface temperature close to Greenland's outlet glaciers, such as Jakobshavn Isbræ and Helheim Glacir, to far-field climate signals.
 
 
 ## Constraints of proxy data on past ocean circulation
+
+<figure>
+  <img src="/assets/images/MIS3cores.png" alt="">
+  <figcaption> 
+Marine sediment core locations with SST proxy data from marine isotope stage 3 (29-60 kyr ago) during the last glacial, which shows a number of abrupt climate change events. What dynamical constraints do proxy data provide, taking into account its sparsity and uncertainty?
+</figcaption>
+</figure>
 
 Paleoclimate archives provide information on the evolution of past climates and can improve our understanding of the processes that underlie low-frequency variability in the climate system. 
 Like in the modern ocean, paleoceanography depends crucially on observations. However, data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. 

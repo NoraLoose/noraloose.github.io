@@ -20,7 +20,7 @@ My research lies at intersection of physical oceanography, computational science
 
 <figure>
   <img src="/assets/images/design.png" alt="">
-  <figcaption> </figcaption>
+  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? </figcaption>
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 

@@ -38,7 +38,7 @@ I am currently exploring an approach that uses uncertainty quantification and ad
 </figure>
 
 The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. A next step is to put the OSNAP observations into a broader spatial and temporal context. I am interested in the following question:
-- Can the OSNAP array inform - or could even serve as a proxy for - unobserved hydrographic and circulation quantities remote from the array?
+- Can the OSNAP array inform - or could even serve as a _proxy_ for - unobserved hydrographic and circulation quantities remote from the array?
 
 I'm quantifying the proxy potential of the OSNAP array by means of a novel, dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
 The novelty consists of two aspects:

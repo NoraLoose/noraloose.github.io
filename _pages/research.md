@@ -66,7 +66,7 @@ To identify remote origins and drivers of climate predictability, I'm using the 
 <figure>
   <img src="/assets/images/Greenland.png" alt="">
   <figcaption> 
-Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacier t ochanges in remote surface heat fluxes on a 5-year timescale.
+Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (right) Helheim Glacier to changes in remote surface heat fluxes on a 5-year timescale.
 </figcaption>
 </figure>
 

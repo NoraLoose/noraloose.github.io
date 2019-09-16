@@ -12,7 +12,7 @@ toc_sticky: true
 
 My research lies at intersection of physical oceanography, computational science, and mathematics. Current research projects include:
 - Quantitative methods for ocean observing system design
-- Dynamical proxy potential of the OSNAP observations
+- Dynamical proxy potential of the OSNAP array
 - Remote drivers of Nordic Seas heat anomalies
 
 
@@ -28,7 +28,22 @@ A central focus of my research is the development of quantitative and dynamics-b
 - Which information is contained in already existing observation networks? 
 - What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
 
-I am currently exploring an approach that uses uncertainty quantification and adjoints within ocean state estimation.
+I am currently exploring an approach that uses uncertainty quantification and adjoint models within ocean state estimation.
+
+## Dynamical Proxy Potential of the OSNAP Array
+ 
+<figure>
+  <img src="/assets/images/proxyOSNAP.png" alt="">
+  <figcaption> Which climate signals impact both the OSNAP observations (black) and remote regions such as (i) subsurface temperature at the East Greenland margin (purple) and (ii) heat content of the Norwegian Sea (pink)? </figcaption>
+</figure>
+
+The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. I am interested in putting the OSNAP observations into a broader spatial and temporal context. Can the OSNAP array inform - or could even serve as a proxy for - unobserved hydrographic and circulation quantities remote from the array?
+
+I'm quantifying the proxy potential of the OSNAP array by means of a novel, dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
+The novelty consists of two aspects:
+- OSNAP's proxy potential is evaluated based purely on dynamical information that is propagated via the equations of motion, as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
+- No actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
+
 
 <!--
 <figure>
@@ -44,14 +59,6 @@ However, remotely triggered perturbations are usually not further disentangled a
 
 
 
-<!--
-## Connecting the OSNAP observations to remote regions 
-The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. An important next step is to put the OSNAP observations into a broader spatial and temporal context, answering the key question: Can the OSNAP array inform - or could even serve as a proxy for - unobserved hydrographic and circulation quantities remote from the array? For instance: For Nordic Seas heat content or subsurface temperature close to Greenland's margins?
-
-I quantify the proxy potential of the OSNAP array by means of a novel, dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
-The novelty consists of two aspects. First, OSNAP's proxy potential is evaluated based purely on dynamical information that is propagated via the equations of motion, as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs. Second, no actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
-
-Observing systems, such as the OSNAP array and other observational efforts in the Atlantic, are expensive to deploy and maintain, and therefore often rely on short-term funding periods. Our novel method can be used to support the design of an effective, long-term Atlantic observing system, owing to the following features: the method is fundamentally dynamics-based, takes into account data redundancy between observations, and can evaluate not only existing, but also future and hypothetical observing systems.
 
 
 
@@ -63,5 +70,4 @@ Observing systems, such as the OSNAP array and other observational efforts in th
 ## Ice-ocean interactions: Greenland melt
 
 ## Constraints of proxy data on past ocean circulation
--->
 

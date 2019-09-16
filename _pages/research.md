@@ -13,11 +13,11 @@ toc_sticky: true
 My research lies at intersection of physical oceanography, computational science, and mathematics. Current research projects include:
 - Quantitative methods for ocean observing system design
 - Dynamical proxy potential of the OSNAP array
-- Remote drivers of Nordic Seas heat anomalies
+- Remote drivers of Nordic Seas heat anomalies and climate predictability
 - Ice-ocean interactions
 
 
-## Quantitative Methods for Ocean Observing System Design
+## Quantitative methods for ocean observing system design
 
 <figure>
   <img src="/assets/images/design.png" alt="">
@@ -31,7 +31,7 @@ A central focus of my research is the development of quantitative and dynamics-b
 
 I am currently exploring an approach that uses uncertainty quantification and adjoint models within ocean state estimation.
 
-## Dynamical Proxy Potential of the OSNAP Array
+## Dynamical proxy potential of the OSNAP array
  
 <figure>
   <img src="/assets/images/OSNAP.png" alt="">
@@ -46,6 +46,7 @@ The novelty consists of two aspects:
 - OSNAP's proxy potential is evaluated based purely on dynamical information that is propagated via the equations of motion, as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
 - No actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
 
+## Remote drivers of Nordic Seas heat anomalies and climate predictability
 
 <figure>
   <img src="/assets/images/sens2wind.png" alt="">

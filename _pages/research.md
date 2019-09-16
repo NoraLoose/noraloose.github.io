@@ -55,7 +55,7 @@ The novelty consists of two aspects:
 
 Variability in the poleward progression of ocean heat across the Nordic Seas - from the subpolar North Atlantic towards the Arctic Ocean - is important for Arctic sea ice, melting of the Greenland Ice Sheet, and northwestern European climate. 
 I'm trying to understand what drives anomalies in Nordic Seas heat content on seasonal to decadal timescales. 
-I'm especially interested in the question _where_ and _at what lead times_ such heat anomalies originate, because anomalies that originate remotely may contribute to decadal climate predictability.
+I'm especially interested in _where_ and _at what lead times_ such heat anomalies originate, because anomalies that originate remotely may contribute to decadal climate predictability.
 
 To identify remote origins and drivers of climate predictability, I'm using the ECCO (Estimating the Circulation and Climate of the Ocean) state estimate and adjoint-derived sensitivities.
 

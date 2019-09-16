@@ -50,7 +50,7 @@ The novelty consists of two aspects:
 ## Remote drivers of Nordic Seas heat anomalies and climate predictability
 
 <figure>
-  <img src="/assets/images/sens2wind.png" alt="">
+  <img src="/assets/images/sens2wind.png" width="1000px" alt="">
   <figcaption>Sensitivity of Nordic Seas heat content to wind perturbations at a lead time of 3 years. The eastern boundary of the North Atlantic and the intergyre boundary are oceanic regions that may help predict northern climate. </figcaption>
 </figure>
 

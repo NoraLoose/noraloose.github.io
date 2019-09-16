@@ -20,16 +20,14 @@ My research lies at intersection of physical oceanography, computational science
 
 <figure>
   <img src="/assets/images/design.png" alt="">
-  <figcaption>Sensitivity of Nordic Seas heat content to meridional wind stress. </figcaption>
+  <figcaption> </figcaption>
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 
-A central focus of my research is the development of quantitative methods that support the design of long-term sustained observing systems.
-I am currently exploring an approach that uses uncertainty quantification and adjoints within ocean state estimation. This approach can answer the following key questions:
+A central focus of my research is the development of quantitative methods that support the design of long-term effective observing systems. I am interested in questions like:
 - Which information is contained in already existing observation networks? 
 - What do such existing networks tell us about ocean circulation in remote regions away from the instruments? 
-- Is there any redundancy in existing configuations?
-- And eventually: What is the (optimal) instrument configuration for long-term sustained observing systems, which is both cost-efficient and capable to monitor key processes and ocean variability? 
+I am currently exploring an approach that uses uncertainty quantification and adjoints within ocean state estimation.
 
 <!--
 <figure>

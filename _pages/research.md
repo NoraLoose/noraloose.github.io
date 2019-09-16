@@ -27,7 +27,7 @@ My research lies at the intersection of physical oceanography, computational sci
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 
 A central focus of my research is the development of quantitative and dynamics-based methods that support the design of long-term effective observing systems. I am interested in questions such as:
-- Which information is contained in already existing observation networks? 
+- What dynamical information is contained in already existing observation networks? 
 - What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
 
 I am currently exploring an approach that uses uncertainty quantification and adjoint models within ocean state estimation.

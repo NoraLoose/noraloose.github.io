@@ -20,13 +20,14 @@ My research lies at intersection of physical oceanography, computational science
 
 <figure>
   <img src="/assets/images/design.png" alt="">
-  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? </figcaption>
+  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? The brown ridge sketches bottom topography. </figcaption>
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 
-A central focus of my research is the development of quantitative methods that support the design of long-term effective observing systems. I am interested in questions like:
+A central focus of my research is the development of quantitative and dynamics-based methods that support the design of long-term effective observing systems. I am interested in questions like:
 - Which information is contained in already existing observation networks? 
-- What do such existing networks tell us about ocean circulation in remote regions away from the instruments? 
+- What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
+
 I am currently exploring an approach that uses uncertainty quantification and adjoints within ocean state estimation.
 
 <!--

@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Nora Loose"
   avatar           : "/assets/images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physical & Computational Oceanography, North Atlantic-Arctic Connectivity, Ocean Observing System Design, Ice-Ocean Interactions, Inverse and Adjoint Methods, Data Assimilation, Uncertainty Quantification"
+  bio              : "Physical & computational oceanography, North Atlantic-Arctic connectivity, Ocean observing system design, Ice-ocean interactions, Inverse and adjoint methods, Data assimilation, Uncertainty quantification"
   location         : "Austin, Texas"
   email            : "nora.loose@utexas.edu"
   uri              :

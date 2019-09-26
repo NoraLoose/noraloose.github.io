@@ -10,7 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography, computational science, and mathematics. Current research projects include:
+My research lies at the intersection of physical oceanography and computational science. Current research projects include:
 - Quantitative methods for ocean observing system design
 - Dynamical proxy potential of the OSNAP array
 - Remote drivers of Nordic Seas heat anomalies and climate predictability

@@ -12,7 +12,7 @@ author_profile: true
 | <img src="/assets/images/fig_UQ.png" width="400px" alt=""> | **Loose, N.**, Heimbach, P., Pillar, H. and Nisancioglu, K. (2020) Quantifying Dynamical Proxy Potential through Oceanic Teleconnections in the North Atlantic. _submitted_. Preprint doi: [10.1002/essoar.10502065.1](https://doi.org/10.1002/essoar.10502065.1)|
 | <img src="/assets/images/OSD.png" width="400px" alt=""> | **Loose, N.** and Heimbach, P. Dynamics-based Design of Observing Systems via Uncertainty Quantification in Ocean State Estimation. _In preparation_.|
 | <img src="/assets/images/proxyOSNAP.png" width="400px" alt=""> | **Loose, N.**, Heimbach, P., Pillar, H. and Nisancioglu, K. The Dynamical Proxy Potential of the OSNAP Array. _In preparation_.|
-| <img src="/assets/images/Greenland.png" width="400px" alt=""> | **Loose, N.**, Nisancioglu, K. and Heimbach, P. Ocean heat supply to Greenland's margins: Sensitivity to far field circulation changes. _In preparation_.|
+| <img src="/assets/images/Greenland.png" width="400px" alt=""> | **Loose, N.**, Nisancioglu, K. and Heimbach, P. Ocean heat supply to Greenland's margins: Sensitivity to far field ocean changes. _In preparation_.|
 | <img src="/assets/images/sens2wind.png" width="400px" alt=""> | **Loose, N.**, Pillar, H., Aarthun, M., Nisancioglu, K. and Heimbach, P. Remote Drivers of Nordic Seas Heat Anomalies and Climate Predictability. _In preparation_.|
 
 ## Thesis

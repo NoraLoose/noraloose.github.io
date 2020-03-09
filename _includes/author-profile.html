@@ -243,6 +243,14 @@
         </li>
       {% endif %}
 
+      {% if author.orcid %}
+        <li>
+          <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
+            <i class="ai ai-orcid ai-fw" aria-hidden="true"></i> ORCID
+          </a>
+        </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>

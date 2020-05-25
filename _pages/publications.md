@@ -17,7 +17,7 @@ author_profile: true
 
 ## Thesis
 
-| <img src="/assets/images/SPNA.png" width="400px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen.|
+| <img src="/assets/images/SPNA.png" width="400px" alt=""> | **Loose, N.** (2019). Adjoint Modeling and Observing System Design in the Subpolar North Atlantic, _Ph.D. Dissertation_, University of Bergen, Norway.|
 
 
 

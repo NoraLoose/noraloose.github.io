@@ -34,8 +34,7 @@ To tackle these questions, I perform quantitative observing system design, throu
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 [Loose and Heimbach](https://doi.org/10.1002/essoar.10504562.1), submitted (2020);
-[Fujii et al.](https    ://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019); 
-“Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020.
+[Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
 
 ## Dynamical proxy potential of the OSNAP array
  
@@ -51,7 +50,7 @@ I'm quantifying the proxy potential of the OSNAP array by means of a new dynamic
 This technique evaluates OSNAP's proxy potential based purely on dynamical information as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
-“Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020.
+“Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020;
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 ## Remote drivers of Nordic Seas heat anomalies and climate predictability

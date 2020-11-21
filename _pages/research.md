@@ -25,12 +25,17 @@ My research lies at the intersection of physical oceanography and computational 
   <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? This schematic shows an example for moored instruments (dots) and a glider (saw-tooth line). The brown ridge sketches bottom topography. </figcaption>
 </figure>
 
-Observing systems are expensive to build and maintain, and therefore often rely on short-term funding. 
+Observing systems are expensive to build and maintain, and therefore have to be designed carefully. 
 A central focus of my research is the development of quantitative and dynamics-based methods that support the design of long-term effective observing systems. I am interested in questions such as:
 - What dynamical information is contained in already existing observation networks? 
 - What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
 
-I am currently exploring an approach that uses uncertainty quantification and adjoint models within ocean state estimation.
+To tackle these questions, I perform quantitative observing system design, through a combination of adjoint modeling, Bayesian inverse methods, and Hessian uncertainty quantification. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
+
+Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
+[Loose and Heimbach](https://doi.org/10.1002/essoar.10504562.1), submitted (2020);
+[Fujii et al.](https    ://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019); 
+“Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020.
 
 ## Dynamical proxy potential of the OSNAP array
  
@@ -47,6 +52,10 @@ The novelty consists of two aspects:
 - OSNAP's proxy potential is evaluated based purely on dynamical information that is propagated via the equations of motion, as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
 - No actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
 
+Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
+“Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020.
+Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
+
 ## Remote drivers of Nordic Seas heat anomalies and climate predictability
 
 <figure>
@@ -60,6 +69,7 @@ I'm particularly interested in _where_ and _at what lead times_ such heat anomal
 
 To identify remote origins and drivers of climate predictability, I'm using the ECCO (Estimating the Circulation and Climate of the Ocean) state estimate and adjoint-derived sensitivities.
 
+Related publications: Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 ## Ice-ocean interactions 
 
@@ -71,6 +81,8 @@ Sensitivity of subsurface temperature close to (left) Jakobshavn Isbræ and (rig
 </figure>
 
 The interaction of warm subpolar North Atlantic ocean waters with Greenland's marine-terminating glaciers is a dominant trigger for the glaciers' retreat and acceleration. Jakobshavn Isbræ and Helheim Glacier are two examples of marine-terminating glaciers in Greenland that have gained much attention recently, as they have undergone rapid changes since the 1990s. I am exploring the sensitivity of subsurface temperature close to Greenland's marine-terminating glaciers, such as Jakobshavn Isbræ and Helheim Glacier, to climate signals in the far-field.
+
+Related publications: Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 
 ## Constraints of proxy data on past ocean circulation
@@ -86,3 +98,5 @@ Paleoclimate archives provide information on the evolution of past climates and 
 However, paleoceanographic data types and coverage are (and always will be) very limited, and proxy data entails large uncertainties. 
 For paleoclimate reconstructions, model-data synthesis is promising since it permits using dynamical principles to constrain interpretations of proxy observations and to compute unobservable climate aspects.
 I'm interested in quantifying the capability of the available proxy data to dynamically constrain ocean circulation of the past, taking into account its sparsity and uncertainties.
+
+Related publications: Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.

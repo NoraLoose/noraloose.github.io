@@ -13,7 +13,7 @@ author_profile: true
 
 ## Preprints
 
-| <img src="/assets/images/fig_combObs.pdf" width="400px" alt=""> | **Loose, N.** and Heimbach, P. Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. _Submitted_. Preprint doi: [10.1002/essoar.10504562.1](https://doi.org/10.1002/essoar.10504562.1).|
+| <img src="/assets/images/fig_combObs.png" width="400px" alt=""> | **Loose, N.** and Heimbach, P. Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. _Submitted_. Preprint doi: [10.1002/essoar.10504562.1](https://doi.org/10.1002/essoar.10504562.1).|
 
 ## Thesis
 

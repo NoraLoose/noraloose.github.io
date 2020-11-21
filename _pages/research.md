@@ -47,10 +47,8 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 The first data from the OSNAP (Overturning in the Subpolar North Atlantic Program) array, a recently installed observing system in the subpolar North Atlantic, has provided new insights into volume, heat, and freshwater transports at the latitudes of the array. A next step is to put the OSNAP observations into a broader spatial and temporal context. I am interested in the following question:
 - Can the OSNAP array inform - or could even serve as a _proxy_ for - unobserved hydrographic and circulation quantities remote from the array?
 
-I'm quantifying the proxy potential of the OSNAP array by means of a novel, dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
-The novelty consists of two aspects:
-- OSNAP's proxy potential is evaluated based purely on dynamical information that is propagated via the equations of motion, as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
-- No actual OSNAP measurement values are needed such that OSNAP's proxy potential can be investigated on longer timescales than the 21 months of OSNAP data that are currently available.
+I'm quantifying the proxy potential of the OSNAP array by means of a new dynamics-based technique that uses adjoint modeling and uncertainty quantification within the ECCO (Estimating the Circulation and Climate of the Ocean) state estimation framework.
+This technique evaluates OSNAP's proxy potential based purely on dynamical information as opposed to techniques that are based on statistical inference, e.g., correlations, regression and EOFs.
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 “Sensitive Spots … and How to Find Them,” [ArcGis StoryMap](https://ecco-group.org/storymaps.cgi?id=43), based on Loose et al. (2020), ECCO group website, uploaded August 2020.

@@ -11,18 +11,20 @@ toc_sticky: true
 ---
 
 My research lies at the intersection of physical oceanography and computational science. Current research projects include:
-- Quantitative methods for ocean observing system design
+- Quantitative observing system design
 - Dynamical proxy potential of the OSNAP array
 - Remote drivers of Nordic Seas heat anomalies and climate predictability
 - Ice-ocean interactions
 - Constraints of proxy data on past ocean circulation
 
 
-## Quantitative methods for ocean observing system design
+## Quantitative observing system design
 
 <figure>
-  <img src="/assets/images/design.png" alt="">
-  <figcaption> What is the optimal instrument configuration (green), adding the most information to already existing observations (red)? This schematic shows an example for moored instruments (dots) and a glider (saw-tooth line). The brown ridge sketches bottom topography. </figcaption>
+  <img src="/assets/images/QND.png" alt="">
+  <figcaption> 
+The Global Ocean Observing System (GOOS) consists of an eclectic mix of satellite and in-situ platforms. Designing optimal observing strategies that account for complementarity and redundancy of observational assets is an unsolved scientific and computational challenge.
+</figcaption>
 </figure>
 
 Observing systems are expensive to build and maintain, and therefore have to be designed carefully. 

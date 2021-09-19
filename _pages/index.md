@@ -11,7 +11,7 @@ author_profile: true
 # About
 
 
-I am a postdoc at the University of Colorado Boulder and member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). My research focuses on improving ocean mesoscale eddy parameterizations via an energetically-consistent framework. 
+I am a postdoc at the University of Colorado Boulder and member of the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). My research focuses on the energy cycle of the ocean mesoscale eddy field -- its generation, its interaction with the large-scale flow, and its dissipation. With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in ocean models.
 
 Before joining the CPT, I worked on adjoint modeling and ocean state estimation within the [ECCO project](https://ecco-group.org/), with a research focus on the subpolar North Atlantic, the Nordic Seas, and the Arctic Ocean.
 I applied techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and gain new insights into how to improve the global ocean observing system.

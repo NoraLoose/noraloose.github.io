@@ -19,8 +19,10 @@ My research lies at the intersection of physical oceanography and computational 
 ## Ocean mesoscale eddies
 
 <figure>
-  <img src="/assets/images/hKE_16deg.png" height="400px" alt="">
-  <figcaption>The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.</figcaption>
+  <img src="/assets/images/KE.png" width="1000px" alt="">
+  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.
+Right: A schematic of the ocean energy cycle.
+</figcaption>
 </figure>
 
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
@@ -28,11 +30,6 @@ Despite their relatively small scale, these eddies play an important role in tra
 My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
 To diagnose the energy cycle, I am currently using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in global ocean models.
-
-<figure>
-  <img src="/assets/images/cycle.png" width="1000px" alt="">
-  <figcaption>A schematic of the ocean energy cycle.</figcaption>
-</figure>
 
 
 ## Uncertainty Quantification & Observing System Design

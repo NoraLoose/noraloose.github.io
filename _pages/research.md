@@ -48,7 +48,7 @@ Ocean observing systems are expensive to build and maintain, and therefore have 
 To tackle these questions, I perform quantitative observing system design, through a combination of adjoint modeling, Bayesian inverse methods, and Hessian uncertainty quantification. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
-[Loose and Heimbach](https://doi.org/10.1002/essoar.10504562.1), submitted (2020);
+[Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
 
 ## Oceanic Teleconnections in the North Atlantic

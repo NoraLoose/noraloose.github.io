@@ -19,7 +19,7 @@ My research lies at the intersection of physical oceanography and computational 
 ## Ocean mesoscale eddies
 
 <figure>
-  <img src="/assets/images/hKE_16deg.png" width="1000px" alt="">
+  <img src="/assets/images/hKE_16deg.png" width="400px" alt="">
   <figcaption>The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.</figcaption>
 </figure>
 

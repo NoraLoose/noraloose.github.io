@@ -12,16 +12,15 @@ toc_sticky: true
 
 My research lies at the intersection of physical oceanography and computational science. Current research projects include:
 - Ocean Mesoscale Eddies
-- Oceanic Teleconnections in the North Atlantic
 - Uncertainty Quantification & Observing System Design
+- Oceanic Teleconnections in the North Atlantic
 - Development of Open Source Software Tools
 
 ## Ocean mesoscale eddies
 
 <figure>
-  <img src="/assets/images/hKE_16deg.png" width="500px" alt="">
-  <img src="/assets/images/cycle.png" width="500px" alt="">
-  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle. Right: A schematic of the ocean energy cycle.</figcaption>
+  <img src="/assets/images/hKE_16deg.png" width="1000px" alt="">
+  <figcaption>The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.</figcaption>
 </figure>
 
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
@@ -30,7 +29,10 @@ My research focuses on the energy cycle of the ocean mesoscale eddy field – it
 To diagnose the energy cycle, I am currently using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in global ocean models.
 
-## Oceanic Teleconnections in the North Atlantic
+<figure>
+  <img src="/assets/images/cycle.png" width="1000px" alt="">
+  <figcaption>A schematic of the ocean energy cycle.</figcaption>
+</figure>
 
 
 ## Uncertainty Quantification & Observing System Design
@@ -51,6 +53,23 @@ To tackle these questions, I perform quantitative observing system design, throu
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 [Loose and Heimbach](https://doi.org/10.1002/essoar.10504562.1), submitted (2020);
 [Fujii et al.](https://www.frontiersin.org/articles/10.3389/fmars.2019.00417/full), Front. Mar. Sci. (2019).
+
+## Oceanic Teleconnections in the North Atlantic
+
+<figure>
+  <img src="/assets/images/NordicSeas.png" alt="">
+  <figcaption> 
+An adjoint-derived sensitivity map that highglights ``sensitive spots'' where wind anomalies can trigger heat anomalies in the Nordic Seas (black contour) months or years later. Both local and remote winds are important!
+</figcaption>
+</figure>
+
+The seas around Greenland, Iceland, and Norway transport heat from the North Atlantic toward the Arctic.
+I am using adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations (both near and far) that affect ocean heat transport in this region.
+
+Related publications:
+[StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);
+ [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
+Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 ## Development of open source software tools
 

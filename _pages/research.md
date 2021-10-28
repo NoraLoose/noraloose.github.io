@@ -19,7 +19,7 @@ My research lies at the intersection of physical oceanography and computational 
 ## Ocean mesoscale eddies
 
 <figure>
-  <img src="/assets/images/hKE_16deg.png" width="400px" alt="">
+  <img src="/assets/images/hKE_16deg.png" height="400px" alt="">
   <figcaption>The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 <figure>
   <img src="/assets/images/NordicSeas.png" alt="">
   <figcaption> 
-An adjoint-derived sensitivity map that highglights ``sensitive spots'' where wind anomalies can trigger heat anomalies in the Nordic Seas (black contour) months or years later. Both local and remote winds are important!
+An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat anomalies in the Nordic Seas (black contour) months or years later. Both local and remote winds are important!
 </figcaption>
 </figure>
 

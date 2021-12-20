@@ -57,12 +57,12 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
   <img src="/assets/images/sensitivity_teleconnections.png" alt="">
   <figcaption> 
 Left: Near-surface currents that are the mediator of oceanic teleconnections in the North Atlantic.
-Left: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow line) months or years later.  
+Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow line) months or years later.  
 </figcaption>
 </figure>
 
 The seas around Greenland, Iceland, and Norway transport heat from the North Atlantic toward the Arctic.
-I am using adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations that affect ocean heat transport in this region. Due to oceanic teleconnections, high-latitude heat transport is sensitive to local and remote(!) wind forcing (right figure).
+I am using adjoint-derived sensitivities in the [ECCO](https://ecco-group.org/) state estimate to identify drivers and locations that affect ocean heat transport in this region. Due to oceanic teleconnections, high-latitude heat transport is sensitive to local and remote(!) wind forcing.
 
 Related publications:
 [StoryMap](https://www.ecco-group.org/storymaps.htm?id=43);

@@ -16,6 +16,6 @@ Before joining the CPT, I worked on adjoint modeling and ocean state estimation 
 I applied techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and gain new insights into how to improve the global ocean observing system. 
 
 I am also engaged in developing [open-source Python tools](https://gcm-filters.readthedocs.io/en/latest/) to enable our Earth Science community to perform data analysis in an efficient way. 
-I am a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we develop and use an open-source framework for universal differentiable programming in Julia, which integrates Bayesian inverse methods with scientific machine learning in Earth system models.
+I am a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we develop and use an open-source framework for universal differentiable programming in [Julia](https://julialang.org/), which integrates Bayesian inverse methods with scientific machine learning in Earth system models.
 
 When I'm not doing research, I like being active in the outdoors. I love rock climbing, trail running, and backcountry skiing.

@@ -78,7 +78,7 @@ I am engaged with developing open-source software tools to enable our Earth Scie
 Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
 
 <figure>
-  <img src="/assets/images/filter.png" alt="">
+  <img src="/assets/images/filter_intro.png" alt="">
   <figcaption> 
 Filtering high-resolution model output with the open-source python package GCM-Filters.
 </figcaption>

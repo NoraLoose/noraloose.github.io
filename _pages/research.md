@@ -80,7 +80,7 @@ Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-F
 <figure>
   <img src="/assets/images/filter_intro.png" alt="">
   <figcaption> 
-Filtering high-resolution model output with the open-source python package GCM-Filters.
+Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source python package GCM-Filters.
 </figcaption>
 </figure>
 

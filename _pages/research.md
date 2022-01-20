@@ -73,15 +73,15 @@ Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python package [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
 
-`GCM-Filters` is a python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. Users can employ `GCM-Filters` on either CPUs or GPUs, with NumPy or CuPy input data. Moreover, GCM-Filters leverages Dask and Xarray to support filtering of larger-than-memory datasets and computational flexibility. Community contributions are welcome!
-
-Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
-
 <figure>
   <img src="/assets/images/filter_intro.png" alt="">
   <figcaption> 
 Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source python package GCM-Filters.
 </figcaption>
 </figure>
+
+`GCM-Filters` is a python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. Users can employ `GCM-Filters` on either CPUs or GPUs, with NumPy or CuPy input data. Moreover, GCM-Filters leverages Dask and Xarray to support filtering of larger-than-memory datasets and computational flexibility. Community contributions are welcome!
+
+Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
 
 

@@ -8,8 +8,8 @@ author_profile: true
 
 ## Preprints
 
-| <img src="/assets/images/bleck_cycle.png" width="600px" alt=""> | **Loose, N.**, Bachman, S., Grooms, I. and Jansen, M. (2022) Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model. _submitted to Journal of Physical Oceanography_. Preprint doi: coming soon.|
-| <img src="/assets/images/NW2.png" width="600px" alt=""> | Marques, G., **Loose, N.**, Yankovsky, E., Steinberg, J., Chang, C-Y., Bhamidipati, N., Adcroft, A., Fox-Kemper, B., Griffies, S., Hallberg, R., Jansen, M., Khatri, H. and Zanna, L. (2022) NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions. _submitted to Geoscientic Model Development_. Preprint doi: [10.1002/essoar.10511043.1](https://doi.org/10.1002/essoar.10511043.1).|
+| <img src="/assets/images/bleck_cycle_small.png" width="600px" alt=""> | **Loose, N.**, Bachman, S., Grooms, I. and Jansen, M. (2022). Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model. _submitted to Journal of Physical Oceanography_. Preprint doi: coming soon.|
+| <img src="/assets/images/NW2.png" width="600px" alt=""> | Marques, G., **Loose, N.**, Yankovsky, E., Steinberg, J., Chang, C-Y., Bhamidipati, N., Adcroft, A., Fox-Kemper, B., Griffies, S., Hallberg, R., Jansen, M., Khatri, H. and Zanna, L. (2022). NeverWorld2: An idealized model hierarchy to investigate ocean mesoscale eddies across resolutions. _submitted to Geoscientic Model Development_. Preprint doi: [10.1002/essoar.10511043.1](https://doi.org/10.1002/essoar.10511043.1).|
 
 ## Journal Articles
 

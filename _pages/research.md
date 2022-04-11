@@ -31,6 +31,8 @@ My research focuses on the energy cycle of the ocean mesoscale eddy field – it
 To diagnose the energy cycle, I am currently using high-resolution idealized models. 
 With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in global ocean models.
 
+Related publications: [Loose et al.](https://www.essoar.org/doi/abs/10.1002/essoar.10511055.1), submitted to JPO;
+[Marques, Loose et al.](https://doi.org/10.1002/essoar.10511043.1), submitted to GMD. 
 
 ## Uncertainty Quantification & Observing System Design
 

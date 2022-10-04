@@ -10,7 +10,7 @@ author_profile: true
 
 # About
 
-I am a postdoc at Princeton University and member of the [M2LInES project](https://m2lines.github.io/). I am using machine learning methods to improve and accelerate ocean mesoscale eddy parameterizations.
+I am a Postdoctoral Research Associate at Princeton University and member of the [M2LInES project](https://m2lines.github.io/). I am using machine learning methods to improve and accelerate ocean mesoscale eddy parameterizations.
 
 Before joining the M2LInES team, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). My research with the CPT was focused on better understanding the ocean eddy energy cycle and improving mesoscale eddy parameterizations by making them energetically consistent.
 I have also worked on adjoint modeling and ocean state estimation within the [ECCO project](https://ecco-group.org/). Within the ECCO framework, I applied techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and gain new insights into how to improve the global ocean observing system. 

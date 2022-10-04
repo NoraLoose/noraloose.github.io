@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Nora Loose"
   avatar           : "/assets/images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physical & computational oceanography, Mesoscale eddy parameterizations, Scientific software development, Uncertainty quantification, Data assimilation, Adjoint modeling, Ocean observing system design"
+  bio              : "Physical & computational oceanography, Mesoscale eddy parameterizations, Machine Learning, Scientific software development, Uncertainty quantification, Data assimilation, Adjoint modeling, Ocean observing system design"
   location         : "Boulder, Colorado"
   email            : "nora.loose@gmail.com"
   uri              :

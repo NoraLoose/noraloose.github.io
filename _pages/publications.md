@@ -10,6 +10,7 @@ author_profile: true
 ## Preprints
 
 | <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Parameterizing eddy form stress in a thickness-weighted average isopycnal ocean model. _submitted to Journal of Advances in Modeling Earth Systems_. Preprint doi: [10.1002/essoar.10512867.1](https://essopenarchive.org/doi/full/10.1002/essoar.10512867.1).|
+| <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators. _submitted_. Preprint doi: [10.48550/arXiv.2306.08754](https://arxiv.org/abs/2306.08754).|
 
 ## Journal Articles
 

@@ -88,5 +88,5 @@ Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation wi
 Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
 
 Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021).
+[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021); [Yu et al.](https://arxiv.org/abs/2306.08754).
 

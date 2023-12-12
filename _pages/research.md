@@ -32,7 +32,7 @@ To diagnose the energy cycle, I am currently using high-resolution idealized mod
 With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in global ocean models.
 
 Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
-[Loose et al.](https://www.essoar.org/doi/abs/10.1002/essoar.10512867.1), submitted to JAMES;
+[Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
 [Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
 
 ## Uncertainty Quantification & Observing System Design

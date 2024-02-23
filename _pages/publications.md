@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-| <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators. _submitted_. Preprint doi: [10.48550/arXiv.2306.08754](https://arxiv.org/abs/2306.08754).|
+| <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation. _submitted_. Preprint doi: [10.48550/arXiv.2306.08754](https://arxiv.org/abs/2306.08754).|
 
 ## Journal Articles
 

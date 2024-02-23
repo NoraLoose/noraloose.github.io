@@ -10,7 +10,7 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography and computational science. Current research projects include:
+My research lies at the intersection of physical oceanography and computational science. Current and past research projects include:
 - Machine learning for ocean modeling
 - Ocean mesoscale eddies
 - Uncertainty quantification & observing system design
@@ -18,7 +18,7 @@ My research lies at the intersection of physical oceanography and computational 
 - Development of open source software tools
 
 
-## Machine learning for ocean modeling
+## Machine Learning for Ocean Modeling
 
 <figure>
   <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
@@ -26,7 +26,7 @@ My research lies at the intersection of physical oceanography and computational 
 </figcaption>
 </figure>
 
-## Ocean mesoscale eddies
+## Ocean Mesoscale Eddies
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
@@ -38,8 +38,8 @@ Right: A schematic of the ocean energy cycle.
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
 Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
 My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
-To diagnose the energy cycle, I am currently using high-resolution idealized models. 
-With a better understanding of the ocean eddy energy cycle, I am hoping to improve the representation of mesoscale processes in global ocean models.
+To diagnose the energy cycle, I am using high-resolution idealized models. 
+With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
 
 Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
@@ -58,7 +58,7 @@ Ocean observing systems are expensive to build and maintain, and therefore have 
 - What dynamical information is contained in already existing observation networks? 
 - What is the optimal instrument configuration, which is both cost-efficient and capable to monitor key processes and ocean variability?
 
-To tackle these questions, I perform quantitative observing system design, through a combination of adjoint modeling, Bayesian inverse methods, and Hessian uncertainty quantification. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
+To tackle these questions, I perform quantitative observing system design, through a combination of Bayesian inverse methods and uncertainty quantification in a data assimilation framework. By means of these computational tools, quantitative observing system design suggests an optimal observing strategy and supports effective instrument placements in the future.
 
 Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020); 
 [Loose and Heimbach](https://doi.org/10.1029/2020MS002386), JAMES (2021);
@@ -82,7 +82,7 @@ Related publications:
  [Loose et al.](https://doi.org/10.1029/2020JC016112), J. Geophys. Res (2020);
 Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
-## Development of open source software tools
+## Development of Open Source Software Tools
 
 I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python package [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
 

@@ -11,10 +11,20 @@ toc_sticky: true
 ---
 
 My research lies at the intersection of physical oceanography and computational science. Current research projects include:
-- Ocean Mesoscale Eddies
-- Uncertainty Quantification & Observing System Design
-- Oceanic Teleconnections in the North Atlantic
-- Development of Open Source Software Tools
+- Machine learning for ocean modeling
+- Ocean mesoscale eddies
+- Uncertainty quantification & observing system design
+- Oceanic teleconnections in the North Atlantic
+- Development of open source software tools
+
+
+## Machine learning for ocean modeling
+
+<figure>
+  <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
+  <figcaption>Using machine learning to introduce memory into subgrid ocean parameterizations.
+</figcaption>
+</figure>
 
 ## Ocean mesoscale eddies
 

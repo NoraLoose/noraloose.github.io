@@ -11,20 +11,12 @@ toc_sticky: true
 ---
 
 My research lies at the intersection of physical oceanography and computational science. Current and past research projects include:
-- Machine learning for ocean modeling
 - Ocean mesoscale eddies
+- Machine learning for ocean modeling
 - Uncertainty quantification & observing system design
 - Oceanic teleconnections in the North Atlantic
 - Development of open source software tools
 
-
-## Machine Learning for Ocean Modeling
-
-<figure>
-  <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
-  <figcaption>Using machine learning to introduce memory into subgrid ocean parameterizations.
-</figcaption>
-</figure>
 
 ## Ocean Mesoscale Eddies
 
@@ -44,6 +36,17 @@ With a better understanding of the ocean eddy energy cycle, we can improve the r
 Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
 [Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
+
+## Machine Learning for Ocean Modeling
+
+<figure>
+  <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
+  <figcaption>Using machine learning to introduce memory into subgrid ocean parameterizations.
+</figcaption>
+</figure>
+
+Mesoscale eddies can persist in the ocean for months to years and thus eddy fluxes may carry a memory of past ocean states. Even so, eddy parameterizations are typically local in time. In this work, I am using machine learning techniques to introduce memory into ocean eddy parameterizations, with the goal to make ocean models more accurate.
+
 
 ## Uncertainty Quantification & Observing System Design
 

@@ -10,9 +10,9 @@ author_profile: true
 
 # About
 
-I am an Associate Research Scholar at Princeton University and member of the [M2LInES project](https://m2lines.github.io/). I am using machine learning to improve ocean models.
+I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/) for Ocean Modeling and Artificial Ingelligence. At [C]Worthy I develop software and machine learning tools to make ocean biogeochemical model simulations computationally more efficient and reproducible.
 
-Before joining the M2LInES team, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). My research with the CPT was focused on better understanding the ocean eddy energy cycle and improving mesoscale eddy parameterizations by making them energetically consistent.
+Before joining [C]Worthy, I worked with the [M2LInES Team](https://m2lines.github.io/) and the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). As part of the M2LInES project, I used machine learning to improve mesoscale eddy parameterizations. My research with the CPT was focused on better understanding the ocean eddy energy cycle and improving mesoscale eddy parameterizations by making them energetically consistent.
 I have also worked on adjoint modeling and ocean state estimation within the [ECCO project](https://ecco-group.org/). Within the ECCO framework, I applied techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and gain new insights into how to improve the global ocean observing system. 
 
 I am engaged in developing [open-source Python tools](https://gcm-filters.readthedocs.io/en/latest/) to enable our community to perform efficient, reproducible, and open science. 

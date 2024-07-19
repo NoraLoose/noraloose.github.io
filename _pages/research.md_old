@@ -1,3 +1,16 @@
+## Machine Learning for Ocean Modeling
+
+<figure>
+  <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
+  <figcaption>Using machine learning to introduce memory into subgrid ocean parameterizations.
+</figcaption>
+</figure>
+
+Mesoscale eddies can persist in the ocean for months to years and thus eddy fluxes may carry a memory of past ocean states. Even so, eddy parameterizations are typically local in time. In this work, I am using machine learning techniques together with physical arguments to introduce memory into ocean eddy parameterizations, with the goal to make ocean models more accurate.
+
+
+
+
 ## Ice-ocean interactions 
 
 <figure>

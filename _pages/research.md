@@ -37,17 +37,6 @@ Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), J
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
 [Marques, Loose et al.](https://gmd.copernicus.org/articles/15/6567/2022/), GMD (2022). 
 
-## Machine Learning for Ocean Modeling
-
-<figure>
-  <img src="/assets/images/LagrangianML.png" width="1500px" alt="">
-  <figcaption>Using machine learning to introduce memory into subgrid ocean parameterizations.
-</figcaption>
-</figure>
-
-Mesoscale eddies can persist in the ocean for months to years and thus eddy fluxes may carry a memory of past ocean states. Even so, eddy parameterizations are typically local in time. In this work, I am using machine learning techniques together with physical arguments to introduce memory into ocean eddy parameterizations, with the goal to make ocean models more accurate.
-
-
 ## Uncertainty Quantification & Observing System Design
 
 <figure>
@@ -87,7 +76,8 @@ Loose, [PhD Dissertation](http://bora.uib.no/handle/1956/24456), 2019.
 
 ## Development of Open Source Software Tools
 
-I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python package [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
+I am engaged with developing open-source software tools to enable our Earth Science community to perform data analysis in an efficient and reproducible way. Recently, my focus has been on the python packages [ROMS-Tools](https://github.com/CWorthy-ocean/roms-tools) and [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
+`ROMS-Tools` is a python package for creating the input files that are necessary to run a ROMS simulation. This includes creating a grid, tidal, boundary, and atmospheric forcings, initial conditions, and more! 
 
 <figure>
   <img src="/assets/images/filter_intro.png" alt="">
@@ -95,6 +85,7 @@ I am engaged with developing open-source software tools to enable our Earth Scie
 Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation with the open-source python package GCM-Filters.
 </figcaption>
 </figure>
+
 
 `GCM-Filters` is a python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. Users can employ `GCM-Filters` on either CPUs or GPUs, with NumPy or CuPy input data. Moreover, GCM-Filters leverages Dask and Xarray to support filtering of larger-than-memory datasets and computational flexibility. Community contributions are welcome!
 

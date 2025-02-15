@@ -10,15 +10,21 @@ author_profile: true
 
 # About
 
-I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/). At [C]Worthy we are building software that supports multi-scale oceanographic modeling and data integration for quantifying the efficacy and ecological impacts of ocean-based carbon dioxide removal (CDR). My work involves using ocean models like Oceananigans to explore how ocean circulation affects CDR. Additionally, I develop software and machine learning tools to enhance the computational efficiency and reproducibility of ocean biogeochemical model simulations.
 
-Before joining [C]Worthy, I worked with the [M2LInES Team](https://m2lines.github.io/) and the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/). 
-My research with the CPT was focused on better understanding the ocean eddy energy cycle and improving mesoscale eddy parameterizations by making them energetically consistent.
-As part of the M2LInES project, I investigated the development of eddy parameterizations using machine learning techniques, and explored the integration of ML-based eddy parameterizations with a physical dynamical core to create hybrid climate models.
-I have also worked on adjoint modeling and ocean state estimation within the [ECCO project](https://ecco-group.org/). Within the ECCO framework, I applied techniques from the computational sciences in order to quantify uncertainties in ocean state estimates and gain new insights into how to improve the global ocean observing system. 
+I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization. 
+At [C]Worthy, we develop software to support multi-scale ocean modeling, with a focus on quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
+My work involves using ocean models like Oceananigans and ROMS-MARBL to study how ocean circulation influences CDR processes.
+Additionally, I develop software and machine learning tools to make ocean biogeochemical model simulations faster and reproducible.
 
-I am engaged in developing open-source Python tools to enable our community to perform efficient, reproducible, and open science. 
-I am a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we develop and use an open-source framework for universal differentiable programming in [Julia](https://julialang.org/), which integrates Bayesian inverse methods with scientific machine learning in Earth system models.
+Before joining [C]Worthy, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in both projects.
+My research with the CPT focused on theoretical and numerical modeling approaches to embedding physical and energy constraints into ocean eddy parameterizations. 
+As part of the M2LInES project, I applied machine learning techniques to develop hybrid climate models, integrating machine-learned eddy parameterizations with traditional ocean model dynamical cores.
+During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/).
 
-When I'm not doing research, I like being active in the outdoors. I love rock climbing, trail running, and backcountry skiing.
+I develop open-source tools in Python and Julia to support efficient, reproducible, and open science within our community.
+I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
+I am also a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we are working to make Julia-based Earth system models—including [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/)—differentiable.
+Differentiable Earth system models enable an online approach to training hybrid climate models, where machine learning techniques can be seamlessly integrated with physical model dynamics.
+
+When I'm not doing research, I enjoy being active outdoors and spending time with my toddler. I love rock climbing, trail running, and backcountry skiing.
 

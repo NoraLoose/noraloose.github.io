@@ -78,7 +78,7 @@ Related publications: [Loose et al.](https://doi.org/10.1029/2020JC016112), J. G
 
 I am engaged with developing open-source software tools in Python and Julia to enable our Earth Science community to perform data analysis in an efficient and reproducible way. 
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
- Recently, my focus has been on the python packages [ROMS-Tools](https://github.com/CWorthy-ocean/roms-tools) and [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/). 
+
 <figure>
   <img src="/assets/images/roms_grid.png" alt="">
   <figcaption> 

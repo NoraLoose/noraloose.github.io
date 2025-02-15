@@ -28,9 +28,9 @@ Right: A schematic of the ocean energy cycle.
 
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
 Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
-My research focuses on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
-To diagnose the energy cycle, I am using high-resolution idealized models. 
-With a better understanding of the ocean eddy energy cycle, we can improve the representation of mesoscale processes in global ocean models.
+My research focused on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
+To analyze this energy cycle, I employed high-resolution ocean models. 
+A deeper understanding of the ocean eddy energy cycle enables us to enhance the representation of mesoscale processes in global ocean models.
 
 Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);
@@ -97,5 +97,5 @@ Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation wi
 Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
 
 Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
-[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021); [Yu et al.](https://arxiv.org/abs/2306.08754).
+[Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021).
 

@@ -21,9 +21,9 @@ My research with the CPT focused on theoretical and numerical modeling approache
 As part of the M2LInES project, I applied machine learning techniques to develop hybrid climate models, integrating machine-learned eddy parameterizations with traditional ocean model dynamical cores.
 During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/).
 
-I develop open-source tools in Python and Julia to support efficient, reproducible, and open science within our community.
+I develop open-source software tools in Python and Julia to support efficient, reproducible, and open science within our community.
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).
-I am also a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we are working to make Julia-based Earth system models—including [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/)—differentiable.
+I am also a PI in the [DJ4Earth project](https://dj4earth.github.io/), where we are making Julia-based Earth system models—including [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/)—differentiable.
 Differentiable Earth system models enable an online approach to training hybrid climate models, where machine learning techniques can be seamlessly integrated with physical model dynamics.
 
 When I'm not doing research, I enjoy being active outdoors and spending time with my toddler. I love rock climbing, trail running, and backcountry skiing.

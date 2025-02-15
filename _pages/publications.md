@@ -7,11 +7,9 @@ author_profile: true
 ---
 
 
-## Preprints
-
-
 ## Journal Articles
 
+| <a href="/assets/images/m2lines_logo.png"><img src="/assets/images/m2lines_logo.png" width="600px" alt=""> | Balwada, D., ..., **Loose, N.**, and Zanna, L. (2024). Learning Machine Learning with Lorenz-96, _Journal of Open Source Education_. doi: [10.21105/jose.00241](https://doi.org/10.21105/jose.00241).|
 | <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A Large Multi-Scale Dataset for Hybrid Physics-ML Climate Emulation. _Advances in Neural Information Processing Systems_, [url](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html).|
 | <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2022MS003518](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518).|
 | <a href="/assets/images/bleck_cycle.png"><img src="/assets/images/bleck_cycle_small.png" width="600px" alt=""> | **Loose, N.**, Bachman, S., Grooms, I. and Jansen, M. (2022). Diagnosing scale-dependent energy cycles in a high-resolution isopycnal ocean model. _Journal of Physical Oceanography_. doi: [10.1175/JPO-D-22-0083.1](https://doi.org/10.1175/JPO-D-22-0083.1), Open-access preprint: [10.1002/essoar.10511055.2](https://www.essoar.org/doi/10.1002/essoar.10511055.2).|

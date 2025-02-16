@@ -27,8 +27,8 @@ My research lies at the intersection of physical oceanography, numerical modelin
 
 Hybrid climate modeling, which combines machine-learned (ML) parameterizations with a climate model’s traditional dynamical core, is an exciting research field. I specialize in hybrid ocean modeling using both offline and online approaches. The key difference between these approaches is how the ML model is trained:
 
-* **Offline approach:** The ML model is trained on precomputed data from high-resolution simulations before being implemented in the model.
-* **Online approach:** The ML model is trained concurrently during the full climate simulation, requiring the underlying physical model to be differentiable.
+* **Offline learning:** The ML model is trained on precomputed data from high-resolution simulations before being implemented in the model.
+* **Online learning:** The ML model is trained concurrently during the full climate simulation, requiring the underlying physical model to be differentiable.
 
 During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches to hybrid modeling. I began by diagnosing eddy fluxes from high-resolution MOM6 simulations using filtering and coarse-graining techniques. I then trained ML models on these offline datasets using PyTorch. To evaluate the model’s performance in an online setting, I integrated it into the MOM6 code base. 
 However, offline-learned parameterizations often encounter numerical instability when coupled with the full model, highlighting the potential advantages of online approaches.

@@ -35,6 +35,9 @@ I first diagnosed eddy fluxes from high-resolution simulations using a filtering
 
 As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise students applying online learning techniques to improve eddy parameterizations. In this approach, the machine-learned parameterization is trained alongside the simulation, requiring a differentiable physical model with an adjoint. We implement this method using the ocean model Oceananigans.
 
+Related publications: [Balwada, ..., Loose et al.](https://doi.org/10.21105/jose.00241), JOSE (2024);
+[Yu, ..., Loose et al.](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html), NeurIPS (2023)
+
 ## Ocean Mesoscale Eddies
 
 <figure>

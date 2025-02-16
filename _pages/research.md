@@ -21,7 +21,7 @@ My research lies at the intersection of physical oceanography, numerical modelin
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
-  <figcaption>Hybrid climate modeling combines machine-learned parameterizations (or other model components) with traditional dynamical cores.
+  <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations (or other machine-learned model components).
 </figcaption>
 </figure>
 

@@ -10,18 +10,26 @@ toc_icon: "gear"
 toc_sticky: true
 ---
 
-My research lies at the intersection of physical oceanography and computational science. Current and past research projects include:
+My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
 - Machine learning for hybrid climate modeling
 - Ocean mesoscale eddies
 - North Atlantic ocean circulation
 - Uncertainty quantification & observing system design
 - Development of open source software tools
 
+## Machine Learning for Hybrid Climate Modeling
+
+<figure>
+  <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
+  <figcaption>Hybrid climate modeling combines machine-learned parameterizations (or other model components) with traditional dynamical cores.
+</figcaption>
+</figure>
+
 ## Ocean Mesoscale Eddies
 
 <figure>
   <img src="/assets/images/KE.png" width="1000px" alt="">
-  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I use for studying the ocean energy cycle.
+  <figcaption>Left: The kinetic energy field in NeverWorld2: a high-resolution idealized model that I used for studying the ocean energy cycle.
 Right: A schematic of the ocean energy cycle.
 </figcaption>
 </figure>
@@ -29,8 +37,10 @@ Right: A schematic of the ocean energy cycle.
 Ocean mesoscale eddies are energetic motions that have horizontal scales of tens to hundreds of kilometers.
 Despite their relatively small scale, these eddies play an important role in transporting momentum, heat, salt, carbon, and nutrients throughout the world's oceans.
 My research focused on the energy cycle of the ocean mesoscale eddy field – its generation, its interaction with the large-scale flow, and its dissipation. 
-To analyze this energy cycle, I employed high-resolution ocean models. 
-A deeper understanding of the ocean eddy energy cycle enables us to enhance the representation of mesoscale processes in global ocean models.
+To investigate this cycle, I used high-resolution ocean models, aiming to improve the representation of mesoscale processes in global ocean models.
+
+Additionally, I studied and compared different mesoscale eddy parameterizations—specifically, Gent & Williams (1990) and Greatbatch & Lamb (1990)—from both theoretical and numerical modeling perspectives. 
+My research explored how these parameterizations interact with the ocean model's vertical coordinate system, providing insights into the consistency between theoretical frameworks and numerical implementations.
 
 Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), JPO (2022);
 [Loose et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518), JAMES (2023);

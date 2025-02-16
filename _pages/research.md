@@ -17,7 +17,7 @@ My research lies at the intersection of physical oceanography, numerical modelin
 - Uncertainty quantification & observing system design
 - Development of open source software tools
 
-## Machine Learning (ML) for Hybrid Climate Modeling
+## Machine Learning for Hybrid Climate Modeling
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
@@ -25,7 +25,7 @@ My research lies at the intersection of physical oceanography, numerical modelin
 </figcaption>
 </figure>
 
-Hybrid climate modeling, which combines machine-learned parameterizations with a climate model’s traditional dynamical core, is an exciting research field. I specialize in hybrid ocean modeling using both offline and online approaches. The key difference between these approaches is how the ML model is trained:
+Hybrid climate modeling, which combines machine-learned (ML) parameterizations with a climate model’s traditional dynamical core, is an exciting research field. I specialize in hybrid ocean modeling using both offline and online approaches. The key difference between these approaches is how the ML model is trained:
 
 * **Offline approach:** The ML model is trained on precomputed data from high-resolution simulations before being implemented in the model.
 * **Online approach:** The ML model is trained concurrently during the full climate simulation, requiring the underlying physical model to be differentiable.

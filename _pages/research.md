@@ -17,13 +17,25 @@ My research lies at the intersection of physical oceanography, numerical modelin
 - Uncertainty quantification & observing system design
 - Development of open source software tools
 
-## Machine Learning for Hybrid Climate Modeling
+## Machine Learning (ML) for Hybrid Climate Modeling
 
 <figure>
   <img src="/assets/images/hybrid_climate_modeling.png" width="1000px" alt="">
   <figcaption>A hybrid climate model combines a traditional dynamical core with machine-learned parameterizations (or other machine-learned model components).
 </figcaption>
 </figure>
+
+I have expertise in hybrid climate modeling, utilizing both **offline** and **online** approaches for machine-learned parameterizations.
+In both cases, a machine-learned parameterization is trained and coupled to the traditional dynamical core of a climate model. 
+The key difference is that:
+
+* in the offline approach, the ML model is trained on precomputed data from high-resolution simulations before being implemented in the model
+* in the online approach, the ML model is trained concurrently during the full climate simulation, requiring the underlying physical model to be differentiable.
+
+During my work with the [M2LInES Team](https://m2lines.github.io/), I focused on offline approaches. 
+I first diagnosed eddy fluxes from high-resolution simulations using a filtering and coarse-graining approach. Then, I trained machine learning models on these offline datasets. As a next step, I integrated the trained model into the MOM6 code base to assess its performance in an online setting. However, offline-learned parameterizations often exhibit numerical instability when coupled to the full model.
+
+As part of the [DJ4Earth project](https://dj4earth.github.io/), I supervise students applying online learning techniques to improve eddy parameterizations. In this approach, the machine-learned parameterization is trained alongside the simulation, requiring a differentiable physical model with an adjoint. We implement this method using the ocean model Oceananigans.
 
 ## Ocean Mesoscale Eddies
 

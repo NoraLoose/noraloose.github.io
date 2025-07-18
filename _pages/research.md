@@ -26,7 +26,7 @@ My research lies at the intersection of physical oceanography, numerical modelin
 </figcaption>
 </figure>
 
-In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual release experiments, I am implementing and testing a technique that allows multiple scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
+In my current role, I develop methods to improve the computational efficiency of simulating physical and biogeochemical ocean processes. At [C]Worthy, our goal is to quantify the carbon removal potential of climate intervention strategies such as ocean alkalinity enhancement and direct ocean capture. To reduce the high computational cost of running many individual climate intervention experiments, I am implementing and testing a technique that allows multiple intervention scenarios to be simulated within a single physical ocean model run, without the need for biogeochemistry. I carry out this work using ROMS-MARBL and Oceananigans.jl.
 
 ## Integrating Machine Learning and Ocean Modeling
 
@@ -77,7 +77,7 @@ Related publications: [Loose et al.](https://doi.org/10.1175/JPO-D-22-0083.1), J
   <img src="/assets/images/sensitivity_teleconnections.png" alt="">
   <figcaption> 
 Left: Near-surface currents that are the mediator of oceanic teleconnections in the North Atlantic.
-Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow line) months or years later.  
+Right: An adjoint-derived sensitivity map that highglights ''sensitive spots'' where wind anomalies can trigger heat transport anomalies across the Iceland-Scotland ridge (yellow-black line) months or years later.  
 </figcaption>
 </figure>
 

@@ -10,14 +10,13 @@ author_profile: true
 
 # About
 
-I am a researcher at the [Nansen Environmental and Remote Sensing Center](https://nersc.no/en/the-nansen-center/), where I use regional ocean models  on the North Atlantic and Arctic ocean.
+I am a researcher at the [Nansen Environmental and Remote Sensing Center](https://nersc.no/en/the-nansen-center/), where I use regional ocean models focused on the North Atlantic and Arctic ocean.
 
-Before joining the Nansen Center, I was a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a non-profit research organization dedicated to quantifying the efficiency of ocean-based carbon dioxide removal (CDR). There, I used ocean circulation models such as Oceananigans.jl and ROMS-MARBL to investigate how physical ocean processes influence CDR outcomes.
-
-Before joining [C]Worthy, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in both projects.
+Before joining the Nansen Center, I was a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a non-profit research organization dedicated to quantifying the efficiency of ocean-based carbon dioxide removal (CDR). There, I used ocean circulation models such as Oceananigans.jl, ROMS-MARBL, and CESM.
+Before that, I worked with the [Ocean Transport and Eddy Energy Climate Process Team (CPT)](https://ocean-eddy-cpt.github.io/) and [M2LInES Team](https://m2lines.github.io/), where I studied ocean mesoscale eddy parameterizations in MOM6 in both projects.
 My research with the CPT focused on theoretical and numerical modeling approaches to embedding physical and energy constraints into ocean eddy parameterizations. 
 As part of the M2LInES project, I applied machine learning techniques to develop hybrid climate models, integrating machine-learned eddy parameterizations with traditional ocean model dynamical cores.
-During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/).
+During my PhD, I worked on adjoint modeling, ocean state estimation and uncertainty quantification within the [ECCO project](https://ecco-group.org/) and MITgcm.
 
 Across these projects, I develop open-source software tools in Python and Julia to support efficient, reproducible, and open science.
 I have led the development of two open-source Python packages: [GCM-Filters](https://gcm-filters.readthedocs.io/en/latest/) and [ROMS-Tools](https://roms-tools.readthedocs.io/en/latest/).

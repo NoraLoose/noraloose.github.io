@@ -6,13 +6,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
-
-| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Moses, W., ..., **Loose, N.**, and Heimbach, P. (2025). DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations, submitted to JAMES_. doi: [10.22541/essoar.176314951.18114616/v1](https://essopenarchive.org/users/1000301/articles/1360053-dj4earth-differentiable-and-performance-portable-earth-system-modeling-via-program-transformations?commit=b41d12401ff9fbfce8bb85c4a3c9cd8681e142a0).|
-
 ## Journal Articles
 
-| <a href="/assets/images/figure_indicator.pdf"><img src="/assets/images/figure_indicator.pdf" width="600px" alt=""> | von Schuckman, K., ..., **Loose, N.**, ... and Yu, W. (2025). Global ocean indicators: Marking pathways at the science-policy nexus, _Marine Policy_. doi: [10.1016/j.marpol.2025.106922](https://doi.org/10.1016/j.marpol.2025.106922).|
+| <a href="/assets/images/dummy.png"><img src="/assets/images/dummy.png" width="600px" alt="">   | Moses, W., ..., **Loose, N.**, and Heimbach, P. (2026). DJ4Earth: Differentiable, and Performance-Portable Earth System Modeling via Program Transformations, _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2025MS005615](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005615).|
+| <a href="/assets/images/figure_indicator.png"><img src="/assets/images/figure_indicator.png" width="600px" alt=""> | von Schuckman, K., ..., **Loose, N.**, ... and Yu, W. (2025). Global ocean indicators: Marking pathways at the science-policy nexus, _Marine Policy_. doi: [10.1016/j.marpol.2025.106922](https://doi.org/10.1016/j.marpol.2025.106922).|
 | <a href="/assets/images/m2lines_logo.png"><img src="/assets/images/m2lines_logo.png" width="600px" alt=""> | Balwada, D., ..., **Loose, N.**, ... and Zanna, L. (2024). Learning Machine Learning with Lorenz-96, _Journal of Open Source Education_. doi: [10.21105/jose.00241](https://doi.org/10.21105/jose.00241).|
 | <a href="/assets/images/climsim.png"><img src="/assets/images/climsim.png" width="600px" alt=""> | Yu, S., ..., **Loose, N.**, ... and Pritchard, M.S. (2023). ClimSim: A Large Multi-Scale Dataset for Hybrid Physics-ML Climate Emulation. _Advances in Neural Information Processing Systems_, [url](https://proceedings.neurips.cc/paper_files/paper/2023/hash/45fbcc01349292f5e059a0b8b02c8c3f-Abstract-Datasets_and_Benchmarks.html).|
 | <a href="/assets/images/GLGMwork_0.25deg.png"><img src="/assets/images/GLGMwork_0.25deg.png" width="600px" alt=""> | **Loose, N.**, Marques, G.M., Adcroft, A., Bachman, S., Griffies, S.M., Grooms, I., Hallberg, R.W. and Jansen, M. (2022). Comparing two parameterizations for the restratification effect of mesoscale eddies in an isopycnal ocean model. _Journal of Advances in Modeling Earth Systems_. doi: [10.1029/2022MS003518](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003518).|

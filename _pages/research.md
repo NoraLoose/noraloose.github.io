@@ -132,5 +132,5 @@ Filtering surface relative vorticity from a global 0.1 degree MOM6 simulation wi
 `GCM-Filters` is a Python package that allows scientists to perform spatial filtering analysis in an easy, flexible, efficient, and reproducible way. `GCM-Filters` is designed to work with gridded data that is produced by General Circulation Models (GCMs) of ocean, weather, and climate. 
 Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-Filters!
 
-Related publications: [Loose et al.](https://joss.theoj.org/papers/10.21105/joss.10234), JOSS (2022); [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
+Related publications: [Loose et al.](https://joss.theoj.org/papers/10.21105/joss.10234), JOSS (2026); [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
 
